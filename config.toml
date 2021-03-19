@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://semyahun.vercel.app/"
 languageCode = "en"
 title = "Semyahun"
 theme = "hargo"
@@ -98,7 +98,7 @@ mobile = "+3618146464"
 email = "sadh@gmail.com"
 location = "Budapest,Hungary"
 # copyright
-copyright = "| Copyright &copy; 2021 [Gethugothemes](https://gethugothemes.com) All Rights Reserved |"
+copyright = "| Copyright &copy; 2021 https://semyahun.vercel.app/ All Rights Reserved |"
 # Snipcart Credentials
 snipcartApiKey = "M2E5YjA3NjMtYzRiYS00YzVjLWEyYWYtNDY5ZDI0OWZhYjg5"
 currencySymbol = "$"
